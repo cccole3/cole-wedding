@@ -13,7 +13,7 @@ export class NavigationBanner extends React.Component<ThemeProps, object> {
         className="justify-content-center NavMain-Banner"
       >
         <Navbar.Brand>
-          <h1>You're Invited!!</h1>
+          <h1>#ColeLottaLove!</h1>
         </Navbar.Brand>
       </Navbar>
     )
