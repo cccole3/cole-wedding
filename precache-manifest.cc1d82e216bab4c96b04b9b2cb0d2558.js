@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ea097fe910d1c689b5cf449ec3f70c53",
+    "revision": "7abe7a883b0b2fd721f1d88090202102",
     "url": "/cole-wedding/index.html"
   },
   {
-    "revision": "e79632629c279b9ac680",
+    "revision": "ed672a5551955dba604f",
     "url": "/cole-wedding/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "2a9101e7db74fd9c3de5",
-    "url": "/cole-wedding/static/css/main.bc9a392d.chunk.css"
+    "revision": "d9158d11aa1ac2a74ac2",
+    "url": "/cole-wedding/static/css/main.dac92655.chunk.css"
   },
   {
-    "revision": "e79632629c279b9ac680",
-    "url": "/cole-wedding/static/js/2.ba9a671b.chunk.js"
+    "revision": "ed672a5551955dba604f",
+    "url": "/cole-wedding/static/js/2.8bd434c2.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/cole-wedding/static/js/2.ba9a671b.chunk.js.LICENSE.txt"
+    "url": "/cole-wedding/static/js/2.8bd434c2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2a9101e7db74fd9c3de5",
-    "url": "/cole-wedding/static/js/main.7759e74f.chunk.js"
+    "revision": "d9158d11aa1ac2a74ac2",
+    "url": "/cole-wedding/static/js/main.2f98fed2.chunk.js"
   },
   {
     "revision": "46326afe7f6f632957af",
