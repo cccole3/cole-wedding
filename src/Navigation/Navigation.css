@@ -9,7 +9,7 @@
     url(../Theme/font/GreatVibes/GreatVibes-Regular.ttf) format('truetype');
 }
 
-.navItem {
+.nav-item {
   font-family: 'Great Vibes';
   font-size: x-large;
 }

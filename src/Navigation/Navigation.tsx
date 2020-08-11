@@ -10,13 +10,13 @@ export class Navigation extends React.Component<ThemeProps, object> {
   render() {
     const { bg, variant } = this.props
     return (
-      <div>
+      <>
         <NavigationBanner bg={bg} variant={variant} />
         <NavigationMain bg={bg} variant={variant} />
         <div>
           <NavigationSwitch />
         </div>
-      </div>
+      </>
     )
   }
 }

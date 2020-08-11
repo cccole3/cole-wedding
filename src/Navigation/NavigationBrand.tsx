@@ -15,6 +15,7 @@ export class NavigationBrand extends React.Component {
             height="30"
             className="d-inline-block align-top"
           />
+          Home
         </Navbar.Brand>
       </LinkContainer>
     )
