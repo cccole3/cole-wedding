@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/cole-wedding/static/css/main.84ec7fd5.chunk.css",
-    "main.js": "/cole-wedding/static/js/main.565e6090.chunk.js",
-    "main.js.map": "/cole-wedding/static/js/main.565e6090.chunk.js.map",
+    "main.css": "/cole-wedding/static/css/main.bc9a392d.chunk.css",
+    "main.js": "/cole-wedding/static/js/main.1be1427e.chunk.js",
+    "main.js.map": "/cole-wedding/static/js/main.1be1427e.chunk.js.map",
     "runtime-main.js": "/cole-wedding/static/js/runtime-main.c8ca7054.js",
     "runtime-main.js.map": "/cole-wedding/static/js/runtime-main.c8ca7054.js.map",
     "static/css/2.11829350.chunk.css": "/cole-wedding/static/css/2.11829350.chunk.css",
-    "static/js/2.8684290c.chunk.js": "/cole-wedding/static/js/2.8684290c.chunk.js",
-    "static/js/2.8684290c.chunk.js.map": "/cole-wedding/static/js/2.8684290c.chunk.js.map",
+    "static/js/2.c77cdaed.chunk.js": "/cole-wedding/static/js/2.c77cdaed.chunk.js",
+    "static/js/2.c77cdaed.chunk.js.map": "/cole-wedding/static/js/2.c77cdaed.chunk.js.map",
     "index.html": "/cole-wedding/index.html",
-    "precache-manifest.063a6e79d85eb3625547926534f59771.js": "/cole-wedding/precache-manifest.063a6e79d85eb3625547926534f59771.js",
+    "precache-manifest.dfb15f414fe94b2228251633ffaf58d2.js": "/cole-wedding/precache-manifest.dfb15f414fe94b2228251633ffaf58d2.js",
     "service-worker.js": "/cole-wedding/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/cole-wedding/static/css/2.11829350.chunk.css.map",
-    "static/css/main.84ec7fd5.chunk.css.map": "/cole-wedding/static/css/main.84ec7fd5.chunk.css.map",
-    "static/js/2.8684290c.chunk.js.LICENSE.txt": "/cole-wedding/static/js/2.8684290c.chunk.js.LICENSE.txt",
+    "static/css/main.bc9a392d.chunk.css.map": "/cole-wedding/static/css/main.bc9a392d.chunk.css.map",
+    "static/js/2.c77cdaed.chunk.js.LICENSE.txt": "/cole-wedding/static/js/2.c77cdaed.chunk.js.LICENSE.txt",
     "static/media/Navigation.css": "/cole-wedding/static/media/GreatVibes-Regular.c1c92d0c.ttf",
     "static/media/logo.svg": "/cole-wedding/static/media/logo.4dacbda8.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.c8ca7054.js",
     "static/css/2.11829350.chunk.css",
-    "static/js/2.8684290c.chunk.js",
-    "static/css/main.84ec7fd5.chunk.css",
-    "static/js/main.565e6090.chunk.js"
+    "static/js/2.c77cdaed.chunk.js",
+    "static/css/main.bc9a392d.chunk.css",
+    "static/js/main.1be1427e.chunk.js"
   ]
 }
