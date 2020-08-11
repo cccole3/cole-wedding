@@ -2,7 +2,7 @@
   "name": "cole-wedding",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://cccole3.github.io/cole-wedding",
+  "homepage": "https://colelotta.love",
   "scripts": {
     "predeploy": "yarn lint && yarn build",
     "deploy": "yarn predeploy && gh-pages -d build",
