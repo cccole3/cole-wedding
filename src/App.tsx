@@ -1,24 +1,16 @@
 import React from 'react'
-import logo from './logo.svg'
-import './App.css'
+import { HashRouter as Router } from 'react-router-dom'
+import { ThemeProps } from './Theme/Theme'
 
-export function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>srsc/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  )
+import { Navigation } from './Navigation/Navigation'
+
+export class App extends React.Component<ThemeProps, object> {
+  render() {
+    const { bg, variant } = this.props
+    return (
+      <Router basename="/cole-wedding">
+        <Navigation bg={bg} variant={variant} />
+      </Router>
+    )
+  }
 }

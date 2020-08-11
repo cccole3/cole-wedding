@@ -1,13 +1,18 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import './index.css'
+
+import 'bootstrap/dist/css/bootstrap.min.css'
+import { ThemeProps } from './Theme/Theme'
 import { App } from './App'
 import * as serviceWorker from './serviceWorker'
 
+const theme: ThemeProps = {
+  bg: 'light',
+  variant: 'light',
+}
+
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+  <App bg={theme.bg} variant={theme.variant} />,
   document.getElementById('root')
 )
 

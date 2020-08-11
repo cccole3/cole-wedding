@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Brush Script MT Italic';
+  src: local('Brush Script MT Italic'),
+    url(../font/BrushScriptMT/BRUSHSCI.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Great Vibes';
+  src: local('Great Vibes'),
+    url(../font/GreatVibes/GreatVibes-Regular.ttf) format('truetype');
+}
+
+nav {
+  font-family: 'Great Vibes';
+  font-size: x-large;
+}
+
+.NavMain-Banner {
+  min-height: 4rem;
+}
