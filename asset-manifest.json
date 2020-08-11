@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/cole-wedding/static/css/main.dac92655.chunk.css",
-    "main.js": "/cole-wedding/static/js/main.2f98fed2.chunk.js",
-    "main.js.map": "/cole-wedding/static/js/main.2f98fed2.chunk.js.map",
-    "runtime-main.js": "/cole-wedding/static/js/runtime-main.c8ca7054.js",
-    "runtime-main.js.map": "/cole-wedding/static/js/runtime-main.c8ca7054.js.map",
-    "static/css/2.11829350.chunk.css": "/cole-wedding/static/css/2.11829350.chunk.css",
-    "static/js/2.8bd434c2.chunk.js": "/cole-wedding/static/js/2.8bd434c2.chunk.js",
-    "static/js/2.8bd434c2.chunk.js.map": "/cole-wedding/static/js/2.8bd434c2.chunk.js.map",
-    "index.html": "/cole-wedding/index.html",
-    "precache-manifest.cc1d82e216bab4c96b04b9b2cb0d2558.js": "/cole-wedding/precache-manifest.cc1d82e216bab4c96b04b9b2cb0d2558.js",
-    "service-worker.js": "/cole-wedding/service-worker.js",
-    "static/css/2.11829350.chunk.css.map": "/cole-wedding/static/css/2.11829350.chunk.css.map",
-    "static/css/main.dac92655.chunk.css.map": "/cole-wedding/static/css/main.dac92655.chunk.css.map",
-    "static/js/2.8bd434c2.chunk.js.LICENSE.txt": "/cole-wedding/static/js/2.8bd434c2.chunk.js.LICENSE.txt",
-    "static/media/Navigation.css": "/cole-wedding/static/media/GreatVibes-Regular.c1c92d0c.ttf",
-    "static/media/logo.svg": "/cole-wedding/static/media/logo.4dacbda8.svg"
+    "main.css": "/static/css/main.d01d5591.chunk.css",
+    "main.js": "/static/js/main.a74d0c1b.chunk.js",
+    "main.js.map": "/static/js/main.a74d0c1b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1992d34f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1992d34f.js.map",
+    "static/css/2.11829350.chunk.css": "/static/css/2.11829350.chunk.css",
+    "static/js/2.8bd434c2.chunk.js": "/static/js/2.8bd434c2.chunk.js",
+    "static/js/2.8bd434c2.chunk.js.map": "/static/js/2.8bd434c2.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.41a4e5539a3abdee6a484750c28ffcba.js": "/precache-manifest.41a4e5539a3abdee6a484750c28ffcba.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/static/css/2.11829350.chunk.css.map",
+    "static/css/main.d01d5591.chunk.css.map": "/static/css/main.d01d5591.chunk.css.map",
+    "static/js/2.8bd434c2.chunk.js.LICENSE.txt": "/static/js/2.8bd434c2.chunk.js.LICENSE.txt",
+    "static/media/Navigation.css": "/static/media/GreatVibes-Regular.c1c92d0c.ttf",
+    "static/media/logo.svg": "/static/media/logo.4dacbda8.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c8ca7054.js",
+    "static/js/runtime-main.1992d34f.js",
     "static/css/2.11829350.chunk.css",
     "static/js/2.8bd434c2.chunk.js",
-    "static/css/main.dac92655.chunk.css",
-    "static/js/main.2f98fed2.chunk.js"
+    "static/css/main.d01d5591.chunk.css",
+    "static/js/main.a74d0c1b.chunk.js"
   ]
 }
