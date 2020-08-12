@@ -12,8 +12,8 @@ export class NavigationBanner extends React.Component<ThemeProps, object> {
         variant={variant}
         className="justify-content-center NavMain-Banner"
       >
-        <Navbar.Brand>
-          <h1>#ColeLottaLove!</h1>
+        <Navbar.Brand href="https://calendar.google.com/event?action=TEMPLATE&tmeid=MWQ3bWJ1Y2VrNzhxZGtoYjBwcjRhaXBjN2UgY2Njb2xlM0Bt&tmsrc=cccole3%40gmail.com">
+          <span>#ColeLottaLove! | May 5th, 2021</span>
         </Navbar.Brand>
       </Navbar>
     )
